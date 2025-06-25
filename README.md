@@ -21,6 +21,6 @@ A simple and beginner-friendly command-line to-do list application built using *
 
 ## 🗂️ File Structure
 📁 project/
-├── todo.py
+├── Main.py
 └── tasks.txt # Automatically created when app runs
 
